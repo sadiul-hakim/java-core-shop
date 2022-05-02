@@ -1,0 +1,7 @@
+Customer : Antor FRom :  Dhaka.
+Id : 4567.
+Bought : Milk product.
+Due : 80.
+
+------------+++----------
+

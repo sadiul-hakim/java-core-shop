@@ -1,0 +1,14 @@
+Customer : Ashikur FRom :  Dhaka.
+Id : 237.
+Bought : Milk product.
+Due : 120.
+
+------------+++----------
+
+Customer : Ashikur FRom :  Dhaka.
+Id : 237.
+Bought : Meat product.
+Due : 600.
+
+------------+++----------
+

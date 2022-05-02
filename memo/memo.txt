@@ -1,0 +1,74 @@
+Seller: Hakim , Id : 1234 .
+Bought 50.000 kg Meat .
+Price : 30000 taka.
+---------------+++------------------
+
+Seller: Hakim , Id : 1234 .
+Bought 20.000 kg Sugar .
+Price : 1400 taka.
+---------------+++------------------
+
+Seller: Jim , Id : 3456 .
+Bought 10.000 kg Milk .
+Price : 800 taka.
+---------------+++------------------
+
+Seller: Jim , Id : 3456 .
+Bought 5.000 kg Vermicelli .
+Price : 200 taka.
+---------------+++------------------
+
+Seller: Hakim , Id : 1234 .
+Bought 100.000 kg Rice .
+Price : 4000 taka.
+---------------+++------------------
+
+Seller: Hakim , Id : 1234 .
+Customer : Ashikur From :  Dhaka.
+Sold 10.000 kg Rice.
+Price : 400 taka.
+
+---------------+++------------------
+
+Seller: Hakim , Id : 1234 .
+Customer : Antor From :  Dhaka.
+Sold 1.000 kg Milk.
+Price : 80 taka.
+In Due.
+---------------+++------------------
+
+Seller: Jim , Id : 3456 .
+Customer : Jisan From :  Dhaka.
+Sold 2.000 kg Meat.
+Price : 1200 taka.
+
+---------------+++------------------
+
+Seller: Hakim , Id : 1234 .
+Customer : Shahed From :  Dhaka.
+Sold 2.000 kg Milk.
+Price : 240 taka.
+
+---------------+++------------------
+
+Seller: Hakim , Id : 1234 .
+Customer : Ashikur From :  Dhaka.
+Sold 1.000 kg Milk.
+Price : 120 taka.
+In Due.
+---------------+++------------------
+
+Seller: Hakim , Id : 1234 .
+Customer : Ashikur From :  Dhaka.
+Sold 1.000 kg Meat.
+Price : 600 taka.
+In Due.
+---------------+++------------------
+
+Seller: Jim , Id : 3456 .
+Customer : Rakibul From :  Dhaka.
+Sold 0.250 kg Vermicelli.
+Price : 10 taka.
+
+---------------+++------------------
+
